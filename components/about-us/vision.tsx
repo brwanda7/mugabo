@@ -25,7 +25,7 @@ const HostingBanner = () => {
       
         <div className="mb-8 sm:mb-8 md:mb-0 lg:mb-0 xl:mb-0 md:w-1/2 p-2 pt-2 pr-2">
           <h2 className="text-4xl font-bold text-white">Vision</h2>
-          <p className="text-white mt-4">Our vision is to lead transformative change in event management, setting new standards of excellence rooted in Christian principles, empowering youth, and creating memorable experiences reflective of God &apos; s grace and diversity.</p>
+          <p className="text-white mt-4">To lead Rwanda's burgeoning MICE industry with authenticity, creativity, and an unwavering commitment to excellence, while fostering opportunities for young professionals and crafting memorable experiences.</p>
        
         </div>
       
