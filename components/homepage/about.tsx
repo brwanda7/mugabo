@@ -15,7 +15,7 @@ export default function Component() {
                 We Better Your Needs And Develop A Customized Plan That Fits Your Unique Needs
               </h1>
               <p className="mt-4 text-lg text-gray-700">
-             Authentic Events is Subsidiary company of TC Kira Investment Group—we are a profit-making company dedicated to adding value to the MICE sector in Rwanda and the region.
+             Authentic Events is Subsidiary company of TC Kira Investment Group. We are a profit-making company dedicated to adding value to the MICE sector in Rwanda and the region.
               </p>
               <Link href="/about-us">
                 <Button className="mt-6 w-full md:w-48 bg-blue-600 text-white roundnow">Learn More</Button>
