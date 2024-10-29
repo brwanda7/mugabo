@@ -11,7 +11,7 @@ const HostingBanner = () => {
       <div className="container mx-auto flex flex-col sm:flex-col md:flex-row lg:flex-row xl:flex-row justify-between items-center">
         <div className="mb-8 sm:mb-8 md:mb-0 lg:mb-0 xl:mb-0 md:w-1/2">
           <h2 className="text-4xl font-bold text-white">Mission</h2>
-          <p className="text-white mt-4">Authentic Events &apos; mission is to infuse God&apos;s excellence spirit into event management, fostering opportunities for youth while upholding Christian values of integrity and creativity in Rwanda and Africa.</p>
+          <p className="text-white mt-4">To elevate Rwanda's global presence in MICE activities with integrity, innovation, and a commitment to excellence, enriching the lives of our team and stakeholders.</p>
        
         </div>
         <div className="md:w-1/2">
