@@ -49,18 +49,17 @@ export default function Component() {
     </p>
   </div>
 </div>
-
-{/*                          <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
+                    <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
   <div className="flex items-center justify-center h-16 w-24 rounded-full bg-blue-700 ">
     <span className="text-2xl font-bold text-white">04</span>
   </div>
   <div className="ml-8 textdiv">
-    <h3 className="text-lg font-medium text-gray-900">Evaluation Events</h3>
+    <h3 className="text-lg font-medium text-gray-900">Digital Marketing and Communications</h3>
     <p className="mt-2 text-base text-gray-500">
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+   We craft targeted strategies to engage audiences and elevate your online presence.
     </p>
   </div>
-</div> */}
+</div> 
 
         </div>
       </div>
