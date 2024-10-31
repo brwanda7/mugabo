@@ -28,7 +28,7 @@ export default function Component() {
                   alt="Crossover 2023"
                   className="object-cover rounded-lg shadow-lg mx-auto"
                   height="500"
-                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470138/Authentic%20Events/53085570225_68fd931bb8_o_cgrsev.jpg"
+                  src="https://res.cloudinary.com/dholzaaws/image/upload/v1730389945/2Q4A9993_tewtts.jpg"
                   style={{
                     aspectRatio: "600/500",
                     objectFit: "cover",

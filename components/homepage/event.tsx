@@ -31,6 +31,7 @@ export default function Component() {
                   }}
                   width="320"
                 />
+                 <div className="overlay"></div>
                 <div className="absolute inset-0 hover:bg-gradient-to-t hover:from-yellow-400 hover:to-blue-500 hover:opacity-75" />
                 <div className="absolute inset-0 p-4 flex justify-between items-end">
                   <div>
@@ -48,18 +49,19 @@ export default function Component() {
                   alt="Apostolic Tour"
                   className="w-full h-full object-center object-cover"
                   height="320"
-                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470155/Authentic%20Events/53158705580_cb32330684_o_akvrqr.jpg"
+                  src="https://res.cloudinary.com/dholzaaws/image/upload/v1730389942/53916572408_0155a67284_o_qqhjer.jpg"
                   style={{
                     aspectRatio: "320/320",
                     objectFit: "cover",
                   }}
                   width="320"
                 />
+                 <div className="overlay"></div>
                 <div className="absolute inset-0 hover:bg-gradient-to-t from-gray-700 to-gray-900 opacity-75" />
-                <div className="absolute inset-0 p-4 flex justify-between items-end">
+                <div className="absolute inset-2 p-4 flex justify-between items-end">
                   <div>
-                    <p className="text-sm font-medium text-white">18.AUG.2023</p>
-                    <p className="text-xl font-bold text-white">APOSTOLIC TOUR</p>
+                    <p className="text-sm font-medium text-white">07.AUG.2024</p>
+                    <p className="text-xl font-bold text-white">AH25 Jubilee Celebration</p>
                   </div>
                 </div>
               </div>
@@ -79,6 +81,7 @@ export default function Component() {
                   }}
                   width="320"
                 />
+                 <div className="overlay"></div>
                 <div className="absolute inset-0 hover:bg-gradient-to-t from-gray-800 to-gray-500 opacity-75" />
                 <div className="absolute inset-0 p-4 flex justify-between items-end">
                   <div>
