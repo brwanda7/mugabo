@@ -135,8 +135,8 @@ const togglePlayPause = () => {
                     </li>
                   </ul>
                 </div>
-                <div className='video-name'>AH25 Jubilee Celebration</div>
-                <video ref={videoRef} src="./AH25 Jubilee Celebration - 07 August 2024.mp4"></video>
+                <div className='video-name'>CrossOver 2024</div>
+                <video ref={videoRef} src="https://res.cloudinary.com/dxtjjbk95/video/upload/v1708851646/Authentic%20Events/CrossOver2023_xsledz.mp4"></video>
               </div>
             </center>
           </div>
