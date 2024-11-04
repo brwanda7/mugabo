@@ -10,7 +10,7 @@ export default function Component() {
             <img
               alt="Event Stadium"
               className="object-cover rounded-lg shadow-lg mx-auto"
-               src="https://res.cloudinary.com/dholzaaws/image/upload/v1730389944/2Q4A0208_zrc0in.jpg"
+               src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470174/Authentic%20Events/53436751347_99b98f0bac_o_iuudjk.jpg"
               style={{
                 height: "500px",
                 maxWidth: "600px",
